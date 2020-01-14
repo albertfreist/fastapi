@@ -1,3 +1,8 @@
+## My todo:
+- [ ] Learn FastAPI
+- [ ] Make at least one pull request to the code base
+- [ ] Create my first project
+
 <p align="center">
   <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"></a>
 </p>
